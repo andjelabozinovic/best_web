@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Forty"
-    subtitle = "By HTML5 Up"
+    subtitle = "By Andjela"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -173,47 +173,47 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "abozinovic.mfa2021@london.edu"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "+447833585189"
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = "Baker St"
+    city = "London, NW9 9XX"
+    country = "UK"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "LBS - Kostis"
 
     # Uses font awesome icons
     [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+  #    icon = "fa-twitter"
+    #  url= "https://www.twitter.com"
+    #  label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/bozinovicandjela/"
       label = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
+      url= "https://www.instagram.com/andjela_bozinovic/?hl=sr"
       label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/andjelabozinovic"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/andjela-bozinovic/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
