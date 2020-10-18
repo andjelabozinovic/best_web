@@ -94,7 +94,7 @@ disqusShortname = ""
         [[params.tiles.showcase]]
       title = "Aqua man"
       subtitle = "Ang hmw1"
-      image = "pic01.jpg"s
+      image = "pic01.jpg"
       url = "projects\pr1\homework2"
 
 
