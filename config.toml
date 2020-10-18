@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Financial Returns across DJIA"
       subtitle = "Let's have a simple look at return vs risk of stocks"
       image = "risk_vs_return.jpeg"
-      url = "projects/project_returns/riskvreturn"
+      url = "projects/project_returns/homework2"
 
 
     [[params.tiles.showcase]]
