@@ -91,6 +91,11 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     
+        [[params.tiles.showcase]]
+      title = "Aqua man"
+      subtitle = "Ang hmw1"
+      image = "pic01.jpg"
+      url = "projects\pr1"
 
 
     [[params.tiles.showcase]]
