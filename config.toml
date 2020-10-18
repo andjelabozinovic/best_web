@@ -91,11 +91,11 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     
-        [[params.tiles.showcase]]
-      title = "Aqua man"
-      subtitle = "Ang hmw1"
-      image = "pic01.jpg"
-      url = "projects\pr1\homework2"
+ [[params.tiles.showcase]]
+      title = "Financial Returns across DJIA"
+      subtitle = "Let's have a simple look at return vs risk of stocks"
+      image = "risk_vs_return.jpeg"
+      url = "projects/project_returns/riskvreturn"
 
 
     [[params.tiles.showcase]]
