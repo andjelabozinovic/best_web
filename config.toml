@@ -91,24 +91,25 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     
+         [[params.tiles.showcase]]
+      title = "Proffesional bio"
+      subtitle = "This is my bio"
+      image = "me.jpg"
+      url = "projects/Bio/index"
+    
  [[params.tiles.showcase]]
-      title = "Homework2"
-      subtitle = "Let's have a simple look at return vs risk of stocks"
+      title = "Climate change"
+      subtitle = "Let's have a simple look"
       image = "finance.jpeg"
       url = "projects/project_returns/homework2"
 
 
     [[params.tiles.showcase]]
-     title = "Homework 1"
-      subtitle = "Let's have a simple look at return vs risk of stocks"
-      image = "risk_vs_return.jpeg"
+     title = "Drink data"
+      subtitle = "Let's have a simple look"
+      image = "climate.jpeg"
       url = "projects/project_returns2/homework1"
       
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "Ipsum"

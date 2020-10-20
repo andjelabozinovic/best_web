@@ -1,0 +1,56 @@
+---
+title: 'Professional Biography'
+author: "Andjela"
+date: "20/10/2020"
+output:
+  html_document:
+    highlight: zenburn
+    theme: flatly
+    toc: yes
+    toc_float: yes
+  word_document:
+    toc: yes
+---
+
+
+```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(mosaic)
+library(ggthemes)
+library(lubridate)
+library(here)
+library(skimr)
+library(janitor)
+library(httr)
+library(readxl)
+library(vroom)
+library(fivethirtyeight)
+library(tidyquant)
+library(ggrepel)
+library(gggenes)
+library(scales)
+library(devtools)
+library(patchwork)
+library(tidytext)
+library(knitr)
+library(GGally)
+library(readxl)
+library(broom)
+library(tidyquant)
+library(infer)
+library(openintro)
+```
+
+
+**I am Andjela Bozinovic, MFA 2021 student from Belgrade,Serbia**
+
+My name is Andjela Bozinovic and I am originally from Belgrade, Serbia. Since young age I have shown great desire to learn a lot of different things. At first, I was very interested in biology but by observing my father who is a business man himself I have decided to go into business. After high school I have joined Faculty of Economics, University of Belgrade first dual degree programme majoring in Economics and Finance in collaboration with London School of Economics and Political Science. All the hard work and sacrafice have paid off since I have been named as a best student of my freshman year and got full scholarship to attend LSE summer school. I wanted to have a diverse knowledge so I have chosen the subject Consumer Behaviour: Behaviour fundamentals for marketing and management. That was the first time I have seen London and I fell in love with the city immediately. While I was in London I was writing a diary for a newspaper in Serbia, and after my summer school I was all over national television because of my successs. After coming back to Serbia, I have started three years of my BSc Economics and Finance at LSE. By just taking a subject Principles of Banking and Finance I fell in love with the idea of working in finance sector, using my mathematical knowledge and also speaking English. So the conclusion was clear - I needed to pursue a Masters degree in Finance, in London.
+
+The pathway When realizing what my life goal was, I have started building my career. I have joined three clubs at undergraduate university: Investment Club - to learn fundamentals of trading and investing, Mentorship programme - to help freshman acclimate to university life and Case Study Club - to solve everyday business problems and have practical knowledge. After two extensive years of industry workshops, marketing, management and sales case study competitions both local and reginal, I have decided to go for CFA Research Challenge. I have been chosen as a team leader of a team representing University of Belgrade. After doing extensive equity research, industry insights, market trends, valuation, financial analysis and scenario analysis, we have done our recommendation for Serbian agrochemical producer and supplier of fertilizers. We have won the local competition of Serbia and Montenegro and qualified for EMEA semifinals to be held in Jordan.   . After this success we were all over national media and gained huge respect in the finance sector of Serbia. One of the articles: https://www.ekof.bg.ac.rs/studenti-ekonomskog-fakulteta-u-beogradu-ponovo-u-regionalnom-finalu-takmicenja-cfa-research-challenge/ , https://mondo.rs/Info/Drustvo/a1305720/CFA-Institute-Research-Challenge-Uspeh-srpskih-studenata-ekonomije.html .
+Currently Now, I am living my dream. London, Finance, great friends and best business school in the world - London Business School. I am so eager to start my on campus learning and to meet my peers and faculty advisors.
+
+	
+	
+```{r lbs, echo=FALSE, out.width="100%"}
+knitr::include_graphics("lbs.png", error = FALSE)
+```	
